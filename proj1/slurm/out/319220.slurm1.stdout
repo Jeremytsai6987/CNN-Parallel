@@ -1,0 +1,340 @@
+Loading modules
+Cleaning up old results
+Sequential run 1 for dataset small
+13.33
+Sequential run 2 for dataset small
+13.20
+Sequential run 3 for dataset small
+13.24
+Sequential run 4 for dataset small
+13.25
+Sequential run 5 for dataset small
+13.28
+Running dataset: small (parfiles version)
+parfiles run 1 with 2 threads for dataset small
+7.05
+parfiles run 2 with 2 threads for dataset small
+7.01
+parfiles run 3 with 2 threads for dataset small
+6.99
+parfiles run 4 with 2 threads for dataset small
+7.10
+parfiles run 5 with 2 threads for dataset small
+7.02
+parfiles run 1 with 4 threads for dataset small
+4.26
+parfiles run 2 with 4 threads for dataset small
+4.26
+parfiles run 3 with 4 threads for dataset small
+4.24
+parfiles run 4 with 4 threads for dataset small
+4.24
+parfiles run 5 with 4 threads for dataset small
+4.22
+parfiles run 1 with 6 threads for dataset small
+3.21
+parfiles run 2 with 6 threads for dataset small
+3.17
+parfiles run 3 with 6 threads for dataset small
+3.12
+parfiles run 4 with 6 threads for dataset small
+3.21
+parfiles run 5 with 6 threads for dataset small
+3.15
+parfiles run 1 with 8 threads for dataset small
+2.82
+parfiles run 2 with 8 threads for dataset small
+2.76
+parfiles run 3 with 8 threads for dataset small
+2.80
+parfiles run 4 with 8 threads for dataset small
+2.91
+parfiles run 5 with 8 threads for dataset small
+2.86
+parfiles run 1 with 12 threads for dataset small
+2.25
+parfiles run 2 with 12 threads for dataset small
+2.31
+parfiles run 3 with 12 threads for dataset small
+2.25
+parfiles run 4 with 12 threads for dataset small
+2.30
+parfiles run 5 with 12 threads for dataset small
+2.27
+Running dataset: small (parslices version)
+parslices run 1 with 2 threads for dataset small
+9.99
+parslices run 2 with 2 threads for dataset small
+10.02
+parslices run 3 with 2 threads for dataset small
+10.01
+parslices run 4 with 2 threads for dataset small
+10.00
+parslices run 5 with 2 threads for dataset small
+9.95
+parslices run 1 with 4 threads for dataset small
+8.43
+parslices run 2 with 4 threads for dataset small
+8.37
+parslices run 3 with 4 threads for dataset small
+8.42
+parslices run 4 with 4 threads for dataset small
+8.40
+parslices run 5 with 4 threads for dataset small
+8.44
+parslices run 1 with 6 threads for dataset small
+7.99
+parslices run 2 with 6 threads for dataset small
+8.20
+parslices run 3 with 6 threads for dataset small
+8.02
+parslices run 4 with 6 threads for dataset small
+8.09
+parslices run 5 with 6 threads for dataset small
+7.99
+parslices run 1 with 8 threads for dataset small
+7.80
+parslices run 2 with 8 threads for dataset small
+7.78
+parslices run 3 with 8 threads for dataset small
+7.87
+parslices run 4 with 8 threads for dataset small
+7.73
+parslices run 5 with 8 threads for dataset small
+7.71
+parslices run 1 with 12 threads for dataset small
+7.60
+parslices run 2 with 12 threads for dataset small
+7.71
+parslices run 3 with 12 threads for dataset small
+8.05
+parslices run 4 with 12 threads for dataset small
+7.67
+parslices run 5 with 12 threads for dataset small
+7.60
+Sequential run 1 for dataset mixture
+79.70
+Sequential run 2 for dataset mixture
+79.82
+Sequential run 3 for dataset mixture
+81.72
+Sequential run 4 for dataset mixture
+81.28
+Sequential run 5 for dataset mixture
+79.37
+Running dataset: mixture (parfiles version)
+parfiles run 1 with 2 threads for dataset mixture
+51.38
+parfiles run 2 with 2 threads for dataset mixture
+51.61
+parfiles run 3 with 2 threads for dataset mixture
+52.96
+parfiles run 4 with 2 threads for dataset mixture
+52.00
+parfiles run 5 with 2 threads for dataset mixture
+51.70
+parfiles run 1 with 4 threads for dataset mixture
+29.23
+parfiles run 2 with 4 threads for dataset mixture
+29.43
+parfiles run 3 with 4 threads for dataset mixture
+30.55
+parfiles run 4 with 4 threads for dataset mixture
+29.42
+parfiles run 5 with 4 threads for dataset mixture
+29.97
+parfiles run 1 with 6 threads for dataset mixture
+26.88
+parfiles run 2 with 6 threads for dataset mixture
+26.68
+parfiles run 3 with 6 threads for dataset mixture
+26.92
+parfiles run 4 with 6 threads for dataset mixture
+26.67
+parfiles run 5 with 6 threads for dataset mixture
+26.97
+parfiles run 1 with 8 threads for dataset mixture
+29.87
+parfiles run 2 with 8 threads for dataset mixture
+26.02
+parfiles run 3 with 8 threads for dataset mixture
+25.85
+parfiles run 4 with 8 threads for dataset mixture
+26.46
+parfiles run 5 with 8 threads for dataset mixture
+25.76
+parfiles run 1 with 12 threads for dataset mixture
+25.25
+parfiles run 2 with 12 threads for dataset mixture
+25.27
+parfiles run 3 with 12 threads for dataset mixture
+24.93
+parfiles run 4 with 12 threads for dataset mixture
+24.96
+parfiles run 5 with 12 threads for dataset mixture
+26.01
+Running dataset: mixture (parslices version)
+parslices run 1 with 2 threads for dataset mixture
+61.85
+parslices run 2 with 2 threads for dataset mixture
+63.77
+parslices run 3 with 2 threads for dataset mixture
+70.43
+parslices run 4 with 2 threads for dataset mixture
+62.84
+parslices run 5 with 2 threads for dataset mixture
+61.75
+parslices run 1 with 4 threads for dataset mixture
+51.43
+parslices run 2 with 4 threads for dataset mixture
+51.86
+parslices run 3 with 4 threads for dataset mixture
+52.02
+parslices run 4 with 4 threads for dataset mixture
+51.46
+parslices run 5 with 4 threads for dataset mixture
+51.81
+parslices run 1 with 6 threads for dataset mixture
+48.56
+parslices run 2 with 6 threads for dataset mixture
+49.22
+parslices run 3 with 6 threads for dataset mixture
+49.40
+parslices run 4 with 6 threads for dataset mixture
+48.14
+parslices run 5 with 6 threads for dataset mixture
+48.67
+parslices run 1 with 8 threads for dataset mixture
+47.78
+parslices run 2 with 8 threads for dataset mixture
+47.49
+parslices run 3 with 8 threads for dataset mixture
+47.50
+parslices run 4 with 8 threads for dataset mixture
+47.23
+parslices run 5 with 8 threads for dataset mixture
+47.64
+parslices run 1 with 12 threads for dataset mixture
+46.41
+parslices run 2 with 12 threads for dataset mixture
+46.45
+parslices run 3 with 12 threads for dataset mixture
+46.31
+parslices run 4 with 12 threads for dataset mixture
+46.43
+parslices run 5 with 12 threads for dataset mixture
+46.91
+Sequential run 1 for dataset big
+203.91
+Sequential run 2 for dataset big
+203.88
+Sequential run 3 for dataset big
+204.30
+Sequential run 4 for dataset big
+203.45
+Sequential run 5 for dataset big
+211.04
+Running dataset: big (parfiles version)
+parfiles run 1 with 2 threads for dataset big
+107.05
+parfiles run 2 with 2 threads for dataset big
+106.98
+parfiles run 3 with 2 threads for dataset big
+106.17
+parfiles run 4 with 2 threads for dataset big
+107.67
+parfiles run 5 with 2 threads for dataset big
+106.10
+parfiles run 1 with 4 threads for dataset big
+64.83
+parfiles run 2 with 4 threads for dataset big
+64.50
+parfiles run 3 with 4 threads for dataset big
+64.93
+parfiles run 4 with 4 threads for dataset big
+64.43
+parfiles run 5 with 4 threads for dataset big
+64.64
+parfiles run 1 with 6 threads for dataset big
+47.42
+parfiles run 2 with 6 threads for dataset big
+47.86
+parfiles run 3 with 6 threads for dataset big
+47.02
+parfiles run 4 with 6 threads for dataset big
+47.83
+parfiles run 5 with 6 threads for dataset big
+48.12
+parfiles run 1 with 8 threads for dataset big
+41.14
+parfiles run 2 with 8 threads for dataset big
+41.49
+parfiles run 3 with 8 threads for dataset big
+41.02
+parfiles run 4 with 8 threads for dataset big
+41.63
+parfiles run 5 with 8 threads for dataset big
+41.18
+parfiles run 1 with 12 threads for dataset big
+35.16
+parfiles run 2 with 12 threads for dataset big
+35.97
+parfiles run 3 with 12 threads for dataset big
+34.49
+parfiles run 4 with 12 threads for dataset big
+34.79
+parfiles run 5 with 12 threads for dataset big
+35.47
+Running dataset: big (parslices version)
+parslices run 1 with 2 threads for dataset big
+155.54
+parslices run 2 with 2 threads for dataset big
+153.21
+parslices run 3 with 2 threads for dataset big
+153.86
+parslices run 4 with 2 threads for dataset big
+152.34
+parslices run 5 with 2 threads for dataset big
+152.43
+parslices run 1 with 4 threads for dataset big
+127.69
+parslices run 2 with 4 threads for dataset big
+125.69
+parslices run 3 with 4 threads for dataset big
+127.11
+parslices run 4 with 4 threads for dataset big
+126.46
+parslices run 5 with 4 threads for dataset big
+126.56
+parslices run 1 with 6 threads for dataset big
+118.06
+parslices run 2 with 6 threads for dataset big
+118.76
+parslices run 3 with 6 threads for dataset big
+119.71
+parslices run 4 with 6 threads for dataset big
+118.83
+parslices run 5 with 6 threads for dataset big
+118.63
+parslices run 1 with 8 threads for dataset big
+114.43
+parslices run 2 with 8 threads for dataset big
+114.71
+parslices run 3 with 8 threads for dataset big
+115.28
+parslices run 4 with 8 threads for dataset big
+114.90
+parslices run 5 with 8 threads for dataset big
+115.28
+parslices run 1 with 12 threads for dataset big
+112.42
+parslices run 2 with 12 threads for dataset big
+112.30
+parslices run 3 with 12 threads for dataset big
+112.43
+parslices run 4 with 12 threads for dataset big
+112.05
+parslices run 5 with 12 threads for dataset big
+112.30
+Running Python plotting script
+Benchmarking script completed
